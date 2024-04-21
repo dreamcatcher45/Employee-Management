@@ -16,4 +16,6 @@ This project is a basic CRUD (Create, Read, Update, Delete) operation implementa
 ![MEAN](mean.png)
 
 ## Demo Video 🎥
-[Demo](video.mp4)
+
+https://github.com/dreamcatcher45/Employee-Management/assets/105426078/31bda4c9-26d5-4132-9268-4d6df4353040
+
